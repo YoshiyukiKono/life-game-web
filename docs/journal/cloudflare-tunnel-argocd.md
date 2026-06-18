@@ -1,16 +1,4 @@
-良い題材ですね。
 
-これは単なる「Cloudflareの設定手順」ではなく、
-
-> Research Fabric Lab Journal
->
-> Harvester上のArgoCDをCloudflare Tunnelで安全に公開する
-
-という形にすると、後から見返したときの価値が高いと思います。
-
----
-
-````markdown
 # Research Fabric Lab Journal
 
 ## Cloudflare Tunnel を利用して ArgoCD をインターネットへ公開する
@@ -343,19 +331,7 @@ MinIO
 
 圧倒的に導入が容易であることを確認できた。
 
-````
 
----
-
-これを置くなら、あなたの現在の構成だと
-
-```text
-docs/journal/03-cloudflare-tunnel-argocd.md
-````
-
-あたりが自然だと思います。
-
-そしてこの次の記事として、
 
 ```text
 04-cloudflare-pages-supabase-first-web-app.md
