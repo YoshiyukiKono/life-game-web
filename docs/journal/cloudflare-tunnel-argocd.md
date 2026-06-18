@@ -330,11 +330,3 @@ MinIO
 という運用に比べ、
 
 圧倒的に導入が容易であることを確認できた。
-
-
-
-```text
-04-cloudflare-pages-supabase-first-web-app.md
-```
-
-がちょうど今回の `life-game-web` につながります。
